@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ShowGoTagami/ShowGoTagami/main/profile-summary-card-output/cobalt/4-productive-time.svg)
-```
-
-    
